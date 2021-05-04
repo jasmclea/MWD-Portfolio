@@ -1,0 +1,93 @@
+<html>
+<head>
+<style>
+ 
+
+  
+body {
+  background-color: rgb(255, 0, 0);
+  
+}
+.myDiv 
+
+<h1>The div element</h1>
+</style>
+
+</head>
+<body>
+
+<h1> LIVERPOOL FC </h1>
+
+<p>  You'll never walk alone.</p>
+
+
+<div class="myDiv">
+  <h2>News</h2>
+  <p>Fixtures.</p>
+
+<div class="nav box">
+    <span class='item'>
+      <h1>
+        <u>Tickets</u>
+      </h1>
+    </span>
+    <span class='item'>
+      <img src=https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/my-context/0001/40/51888bc704ea3b8327cf962d527920a4ddb654b9.jpeg
+    </span>
+  </div>
+  
+  
+
+</body> </h1>
+}
+
+<p> <span style="color:hsl(58, 30%, 48%);font-weight:bold">TEAM NEWS</span>  <span style="color:hsl(58, 30%, 48%);font-weight:bold">SQUAD UPDATES</span> .</p>
+
+</body>
+</html>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ 
+  
+p {
+  font-family: Futura;
+  font-size: 15px;
+}
+}
+.myDiv 
+<h1>The div element</h1>
+</style>
+
+</head>
+<body>
+
+<h1> LIVERPOOL FAN UNITED</h1>
+<p>LFC</p>
+
+
+<div class="myDiv">
+  <h2> <span style="color:hsl(191, 16%, 94%);font-weight:bold">Holiday SHIRT Sales 50% OFF</h2>
+  <p>  <span style="color:hsl(191, 16%, 94%);font-weight:bold">Easter EGG Giveaway</p>
+</div>
+
+</body>
+<h1></h1>
+
+<p> <span style="color:hsl(20, 16%, 94%);font-weight:bold">Best Football team on Merseyside </span>  <span style="color:hsl(20, 16%, 94%);font-weight:bold"></span> .</p>
+
+</body>
+</html>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ 
+  

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ 
+ 
+  
+  
+body {
+
+  background-color: maroon
+  ;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+p {
+  font-family: Futura ;
+  font-size: 15px;
+}
+.myDiv 
+
+<h1>The div element</h1>
+</style>
+
+</head>
+<body>
+
+<h1>Potato Farms United</h1>
+<p>Bringing potatoes to you and your families.</p>
+
+
+<div class="myDiv">
+  <h2>Potato family</h2>
+  <p>24 different styles of potatoes.</p>
+</div>
+
+</body>
+<h1>Best Potatoes</h1>
+
+<p> <span style="color:green;font-weight:bold">Each potato nurtured to perfection</span>  <span style="color:green;font-weight:bold">Each potato dung up fresh</span> .</p>
+
+</body>
+</html>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ 
+  
+
+
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+p {
+  font-family: Futura;
+  font-size: 15px;
+}
+}
+.myDiv 
+<h1>The div element</h1>
+</style>
+
+</head>
+<body>
+
+<h1> 10 different Locations all over the US</h1>
+<p>5 different states</p>
+
+
+<div class="myDiv">
+  <h2> <span style="color:red;font-weight:bold">Holiday Sales</h2>
+  <p>  <span style="color:red;font-weight:bold">Buy 2 potatoes get 2 for free on Easter day celebration</p>
+</div>
+
+</body>
+<h1>We Deliver</h1>
+
+<p> <span style="color:Green;font-weight:bold">Why leave home when we can bring the potatoes to you with our all day potato delvery </span>  <span style="color:Green;font-weight:bold"></span> .</p>
+
+</body>
+</html>
+</html>

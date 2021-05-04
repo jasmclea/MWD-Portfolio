@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ 
+
+  
+body {
+  background-color: hsl(20, 45%, 40%)
+  ;
+}
+.myDiv 
+
+<h1>The div element</h1>
+</style>
+
+</head>
+<body>
+
+<h1>  POTATO FARM UNITED </h1>
+
+<p>  BRINGING POTATOES TO YOUR FAMILIES.</p>
+
+
+<div class="myDiv">
+  <h2>POTATO FAMILY</h2>
+  <p>24 DIFFERENT STYLES OF POTATOES.</p>
+
+<div class="nav box">
+    <span class='item'>
+      <h1>
+        <u>POTATO PROUD</u>
+      </h1>
+    </span>
+    <span class='item'>
+      <img src='https://images.theconversation.com/files/72534/original/image-20150219-28209-ovexg7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip'>
+    </span>
+  </div>
+  
+  
+
+</body> BEST POTATOES</h1>
+}
+
+<p> <span style="color:hsl(58, 30%, 48%);font-weight:bold">EACH POTATO GROWN TO PERFECTION</span>  <span style="color:hsl(58, 30%, 48%);font-weight:bold">EACH POTATO DUG UP FRESHLY</span> .</p>
+
+</body>
+</html>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ 
+  
+p {
+  font-family: Futura;
+  font-size: 15px;
+}
+}
+.myDiv 
+<h1>The div element</h1>
+</style>
+
+</head>
+<body>
+
+<h1> 10 different Locations all over the US</h1>
+<p>5 DIFFERENT STATES</p>
+
+
+<div class="myDiv">
+  <h2> <span style="color:hsl(191, 16%, 94%);font-weight:bold">Holiday Sales</h2>
+  <p>  <span style="color:hsl(191, 16%, 94%);font-weight:bold">Buy 2 potatoes get 2 for free on Easter day celebration</p>
+</div>
+
+</body>
+<h1>We Deliver</h1>
+
+<p> <span style="color:hsl(20, 16%, 94%);font-weight:bold">Why leave home when we can bring the potatoes to you with our all day potato delvery </span>  <span style="color:hsl(20, 16%, 94%);font-weight:bold"></span> .</p>
+
+</body>
+</html>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ 
+  

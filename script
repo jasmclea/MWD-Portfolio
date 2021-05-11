@@ -1,0 +1,12 @@
+var a = 'Hi there!';  // using single 
+var a = 25;         // integer
+var a = 2, b = 5, c = 10;
+ 
+alert(b > a) // Output: true
+alert(b > c) // Output: false 
+
+var b = 80.5;       // floating-point numbe
+var a = 2, b = 5, c = 10;
+ 
+alert(b > a) // Output: true
+alert(b > c) // Output: false 

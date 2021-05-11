@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<audio controls autoplay>
+  <source src="dino.ogg" type="audio/ogg">
+  <source src="https://www.fesliyanstudios.com/play-mp3/5782" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<title>My Example</title>
+<style>
+	div {
+		color: darkorange;
+		font-size: 3vw;
+		padding: 3vw;
+		margin: 3vw;
+		border-style: solid;
+	}
+	.a {
+		border-color: limegreen;
+	}
+	.b {
+		border-color: navy yellowgreen tomato silver;
+	}
+	.c {
+		border: 5px dotted gold;
+	}
+</style>
+
+<div>Color codes. <code>currentColor</code> (are important <code>color</code> to the process).</div>
+
+<div class="a">I'm a gummy bear.</div>
+
+<div class="b">Grab a soda.</div>
+
+<div class="c">CSS code is fun <code>when</code>you know what your doing.</div>
